@@ -1,2 +1,3 @@
-Krakatoa/build
-KrakatoaSR/build
+build/
+vcproject/
+*.rsp

@@ -20,7 +20,7 @@ TOOL_REQUIRES: list[str] = [
 REQUIRES: list[str] = [
     'boost/1.78.0',
     'zlib/1.2.12',
-    'thinkboxlibrary/1.0.0',
+    'thinkboxlibrary/1.0.1',
     'krakatoa/1.0.0',
     'openimageio/2.3.7.2'
 ]
